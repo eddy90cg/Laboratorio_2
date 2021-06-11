@@ -29,9 +29,7 @@ circuito.
 
 * Introducción:
 
-El método de la corriente de malla es otro método bien organizado para resolver circuitos (el otro es el del voltaje en los nodos). Al igual que en cualquier análisis de circuito, tenemos que resolver un sistema de 2E2E2, E ecuaciones independientes, donde EEE es el número de elementos del circuito. El método de la corriente de malla facilita el análisis, y produce un número relativamente pequeño de ecuaciones a resolver.
-El método de la corriente de malla se basa en la ley de voltaje de Kirchhoff (LVK).
-El método de la corriente de lazo es una pequeña variación del método de la corriente de malla.
+![](https://github.com/eddy90cg/Laboratorio_2/blob/main/img/Mentefacto_Lab_2.jpeg)
 
 Lazos y mallas:
 
