@@ -137,7 +137,7 @@ Seguidamente se resuelve el sistema de ecuaciones así formado.
 
 * Figura, Circuito Teórico para el análisis de mallas:
 
-![](https://github.com/eddy90cg/lab2fce/blob/master/img/circuito%20teorico.jpg)
+![](https://github.com/eddy90cg/Laboratorio_2/blob/main/img/Diagrama%20Esquematico_Análisis%20de%20Mallas.jpeg)
 
 
 
