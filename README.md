@@ -214,7 +214,7 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
      
 9. Anexos
 
-calculo del error: 
+Calculo del error: 
 
 
 ![](https://github.com/eddy90cg/lab2fce/blob/master/img/calculos%203.jpg)
