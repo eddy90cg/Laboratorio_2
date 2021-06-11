@@ -139,18 +139,9 @@ Seguidamente se resuelve el sistema de ecuaciones así formado.
 
 ![](https://github.com/eddy90cg/Laboratorio_2/blob/main/img/Diagrama%20Esquematico_Análisis%20de%20Mallas.jpeg)
 
-
-
-
-
 * Circuito Experimental y simulado para el analisis de malla, medidos con multímetro respectivo a la corrriente de cada malla:
 
-![](https://github.com/eddy90cg/lab2fce/blob/master/img/circuito%20experimental%20y%20simulado.jpg)
-
-
-
-
-
+![](https://github.com/eddy90cg/Laboratorio_2/blob/main/img/Simulación%20de%20Circuito.jpeg)
 
 4. LISTA DE COMPONENTES
 
